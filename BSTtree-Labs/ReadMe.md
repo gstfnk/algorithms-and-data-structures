@@ -1,5 +1,5 @@
 # BST Tree Labs
-## [Zadanie 1](/z1)
+## [Zadanie 1](z1)
 Narysuj drzewo powstałe w wyniku kolejnego wstawiania
 {16, 10, 6, 21, 20, 18, 13, 14, 17, 4, 11}. Najpierw zrób to ręcznie a następnie przy pomocy programu.
 ## [Zadanie 2](/z2)
