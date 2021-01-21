@@ -1,0 +1,6 @@
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\StefaniakGabrielaPD012\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\StefaniakGabrielaPD012\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\StefaniakGabrielaPD012\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\StefaniakGabrielaPD012\Zadanie2\obj\Debug\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\StefaniakGabrielaPD012\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\StefaniakGabrielaPD012\Zadanie2\obj\Debug\Zadanie2.pdb

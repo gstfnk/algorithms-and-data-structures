@@ -1,0 +1,6 @@
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z6\bin\Debug\z6.exe.config
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z6\bin\Debug\z6.exe
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z6\bin\Debug\z6.pdb
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z6\obj\Debug\z6.csproj.CoreCompileInputs.cache
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z6\obj\Debug\z6.exe
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z6\obj\Debug\z6.pdb

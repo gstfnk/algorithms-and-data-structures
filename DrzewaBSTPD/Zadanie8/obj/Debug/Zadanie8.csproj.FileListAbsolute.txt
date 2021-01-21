@@ -1,0 +1,7 @@
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie8\bin\Debug\Zadanie8.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie8\bin\Debug\Zadanie8.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie8\bin\Debug\Zadanie8.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie8\obj\Debug\Zadanie8.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie8\obj\Debug\Zadanie8.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie8\obj\Debug\Zadanie8.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie8\obj\Debug\Zadanie8.csprojAssemblyReference.cache

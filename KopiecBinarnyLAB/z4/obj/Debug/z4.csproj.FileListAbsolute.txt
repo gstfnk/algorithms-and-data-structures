@@ -1,0 +1,7 @@
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z4\bin\Debug\z4.exe.config
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z4\bin\Debug\z4.exe
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z4\bin\Debug\z4.pdb
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z4\obj\Debug\z4.csproj.CoreCompileInputs.cache
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z4\obj\Debug\z4.exe
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z4\obj\Debug\z4.pdb
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z4\obj\Debug\z4.csprojAssemblyReference.cache

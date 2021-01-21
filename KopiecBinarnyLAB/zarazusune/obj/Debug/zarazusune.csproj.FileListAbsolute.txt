@@ -1,0 +1,7 @@
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj10\zarazusune\bin\Debug\zarazusune.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj10\zarazusune\bin\Debug\zarazusune.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj10\zarazusune\bin\Debug\zarazusune.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj10\zarazusune\obj\Debug\zarazusune.csprojAssemblyReference.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj10\zarazusune\obj\Debug\zarazusune.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj10\zarazusune\obj\Debug\zarazusune.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj10\zarazusune\obj\Debug\zarazusune.pdb

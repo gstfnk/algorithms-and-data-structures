@@ -1,0 +1,14 @@
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 1\bin\Debug\Zadanie 1.exe.config
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 1\bin\Debug\Zadanie 1.exe
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 1\bin\Debug\Zadanie 1.pdb
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 1\obj\Debug\Zadanie 1.csprojAssemblyReference.cache
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 1\obj\Debug\Zadanie 1.csproj.CoreCompileInputs.cache
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 1\obj\Debug\Zadanie 1.exe
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 1\obj\Debug\Zadanie 1.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 1\bin\Debug\Zadanie 1.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 1\bin\Debug\Zadanie 1.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 1\bin\Debug\Zadanie 1.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 1\obj\Debug\Zadanie 1.csprojAssemblyReference.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 1\obj\Debug\Zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 1\obj\Debug\Zadanie 1.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 1\obj\Debug\Zadanie 1.pdb

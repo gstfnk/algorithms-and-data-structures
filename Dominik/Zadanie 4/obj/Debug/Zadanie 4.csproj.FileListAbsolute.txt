@@ -1,0 +1,14 @@
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 4\bin\Debug\Zadanie 4.exe.config
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 4\bin\Debug\Zadanie 4.exe
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 4\bin\Debug\Zadanie 4.pdb
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 4\obj\Debug\Zadanie 4.csprojAssemblyReference.cache
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 4\obj\Debug\Zadanie 4.csproj.CoreCompileInputs.cache
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 4\obj\Debug\Zadanie 4.exe
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 4\obj\Debug\Zadanie 4.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 4\bin\Debug\Zadanie 4.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 4\bin\Debug\Zadanie 4.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 4\bin\Debug\Zadanie 4.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 4\obj\Debug\Zadanie 4.csprojAssemblyReference.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 4\obj\Debug\Zadanie 4.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 4\obj\Debug\Zadanie 4.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Dominik\Zadanie 4\obj\Debug\Zadanie 4.pdb

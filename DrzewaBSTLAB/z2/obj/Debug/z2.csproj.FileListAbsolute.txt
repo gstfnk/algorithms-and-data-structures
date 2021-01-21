@@ -1,0 +1,14 @@
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z2\bin\Debug\z2.exe.config
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z2\bin\Debug\z2.exe
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z2\bin\Debug\z2.pdb
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z2\obj\Debug\z2.csprojAssemblyReference.cache
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z2\obj\Debug\z2.csproj.CoreCompileInputs.cache
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z2\obj\Debug\z2.exe
+C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z2\obj\Debug\z2.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj11\z2\bin\Debug\z2.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj11\z2\bin\Debug\z2.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj11\z2\bin\Debug\z2.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj11\z2\obj\Debug\z2.csprojAssemblyReference.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj11\z2\obj\Debug\z2.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj11\z2\obj\Debug\z2.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Laby\zaj11\z2\obj\Debug\z2.pdb

@@ -1,0 +1,7 @@
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie4\bin\Debug\Zadanie4.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie4\bin\Debug\Zadanie4.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie4\bin\Debug\Zadanie4.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie4\obj\Debug\Zadanie4.csprojAssemblyReference.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie4\obj\Debug\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie4\obj\Debug\Zadanie4.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie4\obj\Debug\Zadanie4.pdb

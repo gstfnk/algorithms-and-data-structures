@@ -1,0 +1,6 @@
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z2\bin\Debug\z2.exe.config
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z2\bin\Debug\z2.exe
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z2\bin\Debug\z2.pdb
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z2\obj\Debug\z2.csproj.CoreCompileInputs.cache
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z2\obj\Debug\z2.exe
+C:\ZAJECIA\AiSD 2020\zdalne10\zaj10\z2\obj\Debug\z2.pdb

@@ -1,0 +1,7 @@
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\DrzewaDrzewaBinarneLAB\z1\bin\Debug\z1.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\DrzewaDrzewaBinarneLAB\z1\bin\Debug\z1.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\DrzewaDrzewaBinarneLAB\z1\bin\Debug\z1.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\DrzewaDrzewaBinarneLAB\z1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\DrzewaDrzewaBinarneLAB\z1\obj\Debug\Zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\DrzewaDrzewaBinarneLAB\z1\obj\Debug\z1.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\DrzewaDrzewaBinarneLAB\z1\obj\Debug\z1.pdb

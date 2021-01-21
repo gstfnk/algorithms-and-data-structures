@@ -1,0 +1,7 @@
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zad2OdKasi\bin\Debug\Zad2OdKasi.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zad2OdKasi\bin\Debug\Zad2OdKasi.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zad2OdKasi\bin\Debug\Zad2OdKasi.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zad2OdKasi\obj\Debug\Zad2OdKasi.csprojAssemblyReference.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zad2OdKasi\obj\Debug\Zad2OdKasi.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zad2OdKasi\obj\Debug\Zad2OdKasi.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zad2OdKasi\obj\Debug\Zad2OdKasi.pdb

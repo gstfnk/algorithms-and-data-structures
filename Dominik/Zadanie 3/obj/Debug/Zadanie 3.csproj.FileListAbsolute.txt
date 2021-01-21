@@ -1,0 +1,6 @@
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 3\bin\Debug\Zadanie 3.exe.config
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 3\bin\Debug\Zadanie 3.exe
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 3\bin\Debug\Zadanie 3.pdb
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 3\obj\Debug\Zadanie 3.csproj.CoreCompileInputs.cache
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 3\obj\Debug\Zadanie 3.exe
+D:\Dominik\Szkoła\SEMESTR III\Architektura Komputerów\Do kolosa 2\Do kolosa II\Zadanie 3\obj\Debug\Zadanie 3.pdb

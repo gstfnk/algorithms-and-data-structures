@@ -1,0 +1,7 @@
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BST\bin\Debug\BST.exe.config
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BST\bin\Debug\BST.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BST\bin\Debug\BST.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BST\obj\Debug\BSTfromPOSTandIN.csproj.CoreCompileInputs.cache
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BST\obj\Debug\BST.exe
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BST\obj\Debug\BST.pdb
+C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BST\obj\Debug\BSTfromPOSTandIN.csprojAssemblyReference.cache
