@@ -1,7 +1,0 @@
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BSTfromPOSTORDER\bin\Debug\BSTfromPOSTORDER.exe.config
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BSTfromPOSTORDER\bin\Debug\BSTfromPOSTORDER.exe
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BSTfromPOSTORDER\bin\Debug\BSTfromPOSTORDER.pdb
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BSTfromPOSTORDER\obj\Debug\BSTfromPOSTORDER.csprojAssemblyReference.cache
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BSTfromPOSTORDER\obj\Debug\BSTfromPOSTORDER.csproj.CoreCompileInputs.cache
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BSTfromPOSTORDER\obj\Debug\BSTfromPOSTORDER.exe
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Wejścióweczki są w kropeczki\Hacks\BSTfromPOSTORDER\obj\Debug\BSTfromPOSTORDER.pdb

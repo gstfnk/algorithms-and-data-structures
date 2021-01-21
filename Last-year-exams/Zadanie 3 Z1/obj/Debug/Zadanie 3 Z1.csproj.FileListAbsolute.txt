@@ -1,7 +1,0 @@
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 3 Z1\bin\Debug\Zadanie 3 Z1.exe.config
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 3 Z1\bin\Debug\Zadanie 3 Z1.exe
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 3 Z1\bin\Debug\Zadanie 3 Z1.pdb
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 3 Z1\obj\Debug\Zadanie 3 Z1.csprojAssemblyReference.cache
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 3 Z1\obj\Debug\Zadanie 3 Z1.csproj.CoreCompileInputs.cache
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 3 Z1\obj\Debug\Zadanie 3 Z1.exe
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 3 Z1\obj\Debug\Zadanie 3 Z1.pdb

@@ -1,7 +1,0 @@
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 2 Y2\obj\Debug\Zadanie 2 Y2.csprojAssemblyReference.cache
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 2 Y2\obj\Debug\Zadanie 2 Y2.csproj.CoreCompileInputs.cache
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 2 Y2\bin\Debug\Zadanie 2 Y2.exe.config
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 2 Y2\bin\Debug\Zadanie 2 Y2.exe
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 2 Y2\bin\Debug\Zadanie 2 Y2.pdb
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 2 Y2\obj\Debug\Zadanie 2 Y2.exe
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\Kolokwium II\Moodle\Zadanie 2 Y2\obj\Debug\Zadanie 2 Y2.pdb

@@ -1,7 +1,0 @@
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie7\obj\Debug\Zadanie7.csprojAssemblyReference.cache
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie7\obj\Debug\Zadanie7.csproj.CoreCompileInputs.cache
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie7\bin\Debug\Zadanie7.exe.config
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie7\bin\Debug\Zadanie7.exe
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie7\bin\Debug\Zadanie7.pdb
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie7\obj\Debug\Zadanie7.exe
-C:\Users\AIRSHOW2\Documents\Semestr 3\Algorytmy\PD\GabrielaStefaniakPD011\Zadanie7\obj\Debug\Zadanie7.pdb

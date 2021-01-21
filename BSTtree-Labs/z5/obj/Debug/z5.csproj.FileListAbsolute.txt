@@ -1,7 +1,0 @@
-C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z5\bin\Debug\z5.exe.config
-C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z5\bin\Debug\z5.exe
-C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z5\bin\Debug\z5.pdb
-C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z5\obj\Debug\z5.csproj.CoreCompileInputs.cache
-C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z5\obj\Debug\z5.exe
-C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z5\obj\Debug\z5.pdb
-C:\ZAJECIA\AiSD 2020\zdalne11\zaj11\z5\obj\Debug\z5.csprojAssemblyReference.cache
